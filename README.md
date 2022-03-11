@@ -1,0 +1,1 @@
+# vite-rails-docker
